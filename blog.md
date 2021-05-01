@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Rohit Jain | Blog
+title: 김병준 | 블로그
 pagination:
   enabled: true
 ---
